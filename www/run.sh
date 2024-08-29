@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Linux
-openresty_path="/usr/local/openresty"
+openresty_path="/usr"
 openresty="${openresty_path}/bin/openresty"
 
 os=`uname`
